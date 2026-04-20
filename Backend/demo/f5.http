@@ -1,0 +1,2 @@
+GET http://localhost:8080/jobs
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJKb2huIiwicm9sZSI6IlVTRVIiLCJpYXQiOjE3NzY1MDIzNjAsImV4cCI6MTc3NjUwNTk2MH0.D1cMZsIpyNGAsA5nJXVuFYU5uc7Ep2qYvvI3cjMF9V8   

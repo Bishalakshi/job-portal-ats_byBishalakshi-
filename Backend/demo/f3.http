@@ -1,0 +1,2 @@
+DELETE http://localhost:8080/candidates/6
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSIsInJvbGUiOiJVU0VSIiwiaWF0IjoxNzc2NTAwMjM4LCJleHAiOjE3NzY1MDM4Mzh9.udH-Y4w2tv-pSphcmPrUFaY4ddWHee_9MMGZV-9i7OE 

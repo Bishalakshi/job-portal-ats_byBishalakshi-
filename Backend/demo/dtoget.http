@@ -1,0 +1,9 @@
+POST http://localhost:8080/candidates
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJBZGFyc2giLCJyb2xlIjoiVVNFUiIsImlhdCI6MTc3NjQ5NDg4MywiZXhwIjoxNzc2NDk4NDgzfQ.dhQlKC_i8F6yliGILqC_UMcJ9BTyBbO2rBTgpBKEpK0
+Content-Type: application/json
+
+{
+  "username": "a",
+  "password": "123",
+  "role": null
+}

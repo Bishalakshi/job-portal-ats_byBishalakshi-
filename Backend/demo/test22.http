@@ -1,0 +1,7 @@
+POST http://localhost:8080/auth/login
+Content-Type: application/json
+
+{
+  "username": "Adarsh",
+  "password": "$2a$10$8zQm1v9mYxJH7dQv0xQ9CeY2v9Gk9xvQm8bWzF5h8eY0n9lKxZx5u"
+}

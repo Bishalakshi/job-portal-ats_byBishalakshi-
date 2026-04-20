@@ -1,0 +1,2 @@
+GET
+Authorization: Bearer YOUR_TOKEN_HERE http://localhost:8080/candidates

@@ -1,0 +1,2 @@
+DELETE http://localhost:8080/jobs/1
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJSYWRoaWthIiwicm9sZSI6IkFETUlOIiwiaWF0IjoxNzc2NTAwMTIyLCJleHAiOjE3NzY1MDM3MjJ9.9kme-zcT6y0JrrxzipYv5tAN9JZh5azgUvwQDwFXd3g

@@ -1,0 +1,2 @@
+GET http://localhost:8080/candidates
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSIsInJvbGUiOiJST0xFX1VTRVIiLCJpYXQiOjE3NzY0MzY3MTYsImV4cCI6MTc3NjQ0MDMxNn0.NVMDdvWEE0lBC926P90zMzwUd9FTccTHhon_fmb4-iw

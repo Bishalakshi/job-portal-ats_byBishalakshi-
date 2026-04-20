@@ -1,0 +1,7 @@
+POST http://localhost:8080/applications
+Content-Type: application/json
+
+{
+  "candidate": { "id": 3 },
+  "job": { "id": 2 }
+}

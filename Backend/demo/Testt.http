@@ -1,0 +1,5 @@
+DELETE http://localhost:8080/applications/1
+DELETE http://localhost:8080/applications/2
+DELETE http://localhost:8080/applications/3
+DELETE http://localhost:8080/applications/4
+DELETE http://localhost:8080/applications/5
